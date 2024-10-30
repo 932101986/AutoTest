@@ -1,3 +1,4 @@
 HELLO World！
 解决后的冲突结果
 version1
+version2

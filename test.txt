@@ -1,4 +1,14 @@
 HELLO World！
+00000
+这个是branch的冲突o
+----------------------
+branch左边
+HELLO World！
 解决后的冲突结果
 version1
 version2
+----------------------
+main右边
+00000
+这个（我在test.txt文件加了一个branch02的字符）是branch的冲突o
+
